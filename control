@@ -1,0 +1,9 @@
+Package: me.ray.newtermplusplus
+Name: newtermplusplus
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Make NewTerm nice look!
+Maintainer: ray
+Author: ray
+Section: Tweaks
