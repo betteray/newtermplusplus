@@ -1,4 +1,4 @@
-Package: me.ray.newtermplusplus
+Package: me.thepapaya.newtermplusplus
 Name: newtermplusplus
 Depends: mobilesubstrate
 Version: 0.0.1
@@ -7,3 +7,5 @@ Description: Make NewTerm nice look!
 Maintainer: ray
 Author: ray
 Section: Tweaks
+Depiction: https://thepapaya.me/cydia/depictions/?p=me.thepapaya.newtermplusplus
+
